@@ -1,0 +1,85 @@
+* {margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body { background: url(../img/Degrade.jpg.png) no-repeat top center; sans serif;}
+
+h1 {text-align: center; 
+	color: white; 
+	font-size: 80px;}
+
+#contenedor { width: 960px; 
+	          margin: 0 auto;  
+	          color: white;}
+
+#cabecera { position: relative; 
+	        padding-top: 20px; }
+
+#menu{text-align: center;
+      border: 3px solid }
+
+#menu a{text-decoration: none;
+         color: white;
+         margin: 30px;}
+
+ #imagen1 img{
+ 	width: 50%;
+     padding: 10px;
+ 	}
+
+ 	#imagen2 img{
+ 	width: px;
+     padding: 10px;
+     float: right;
+ 	}
+
+#izquierda, #derecha {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#izquierda {
+	width: 70%;
+}
+
+#izquierda img {
+	width: 50%;
+	height: auto;
+	display: inline-block;
+}
+
+#derecha {
+	width: 30%;
+}
+
+p{text-align: justify;
+
+ }
+
+ #imagen1 {
+	width: 50%;
+	height: auto;
+}
+
+h2{text-align: center;
+	font-size: 50px;
+
+}
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
